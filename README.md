@@ -97,14 +97,3 @@ Before you begin, ensure you have the following installed:
 - **DELETE** `/api/tasks/:id`
 - Requires Authentication
 
-## Deployment
-
-This application can be deployed to various platforms such as Heroku, DigitalOcean, or AWS. Make sure to set the appropriate environment variables on your deployment platform.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
